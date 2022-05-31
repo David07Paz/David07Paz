@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @David07Paz
-- 👀 I’m interested in  aprender do início os princípios básico de html, css, javascrip entre outros.
-- 🌱 I’m currently learning  muito com professor Guanabara, ele faz tudo parecer simples .
-- 💞️ I’m looking to collaborate on  com pouco de conhecimento que estou  absorvendo.
-- 📫 How to reach me , por watsapp (1195133-0385).
+olá, mundo! 
+Me chamo David Paz, tenho 26 anos e moro em São Paulo.
+Atualmente estou estudando programação com professor Gustavo guanabara e espero me tornar um profissional da área.
+Se quiser entrar em contato comigo;
+Watsapp (11)95133-0385 
+Email- davidd07paz@gmail.com
 --->
